@@ -1,0 +1,19 @@
+{
+  "name": "token-csrf-sec",
+  "version": "1.0.0",
+  "description": "Genera tokens de 64 caracteres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismendoza/token-csrf-sec.git"
+  },
+  "author": "Ismael Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismendoza/token-csrf-sec/issues"
+  },
+  "homepage": "https://github.com/ismendoza/token-csrf-sec#readme"
+}
