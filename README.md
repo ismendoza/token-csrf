@@ -6,11 +6,11 @@ $ npm i token-csrf
 ```
 ## Implementación
 
-### Modulo estandar de javascript
+### Módulo estandar de javascript
 ```
 const getToken = require('token-csrf')
 ```
-### Modulo ECMAScript
+### Módulo ECMAScript
 ```
 import getToken from 'token-csrf'
 ```
