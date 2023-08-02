@@ -1,18 +1,20 @@
 # token-csrf
-Genera tokens de 64 caracteres
+Generar tokens de 64 caracteres
+## Instalación
+```
+$ npm i token-csrf
+```
+## Implementación
 
-Instalación
-
-npm i token-csrf
-
-Implementación
-
-- Modulo estandar de javascript
+### Modulo estandar de javascript
+```
 const getToken = require('token-csrf')
-
-- Modulo ECMAScript
+```
+### Modulo ECMAScript
+```
 import getToken from 'token-csrf'
-
-
-
-
+```
+### Utilización
+```
+const token = getToken()
+```
