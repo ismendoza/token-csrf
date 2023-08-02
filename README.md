@@ -1,4 +1,4 @@
-# token-csrf-sec
+# token-csrf
 Genera tokens de 64 caracteres
 
 Instalación
