@@ -10,4 +10,4 @@ function getToken() {
     return result;
 }
 
-export { getToken }
+module.exports = getToken;

@@ -1,6 +1,6 @@
 {
-  "name": "token-csrf-sec",
-  "version": "1.0.0",
+  "name": "token-csrf",
+  "version": "1.0.5",
   "description": "Genera tokens de 64 caracteres",
   "main": "app.js",
   "scripts": {
