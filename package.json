@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ismendoza/token-csrf-sec.git"
+    "url": "git+https://github.com/ismendoza/token-csrf.git"
   },
   "author": "Ismael Mendoza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ismendoza/token-csrf-sec/issues"
+    "url": "https://github.com/ismendoza/token-csrf/issues"
   },
-  "homepage": "https://github.com/ismendoza/token-csrf-sec#readme"
+  "homepage": "https://github.com/ismendoza/token-csrf#readme"
 }
